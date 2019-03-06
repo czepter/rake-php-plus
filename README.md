@@ -38,10 +38,11 @@ This particular package intends to include the following benefits over the origi
 * French/le français (fr_FR)
 * Polish/język polski (pl_PL)
 * Russian/русский язык (ru_RU)
+* Arabic/عربى (ar_SA)
 
 ## Version
 
-v1.0.9
+v1.0.10
 
 ## Special Thanks
 
